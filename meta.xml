@@ -2,6 +2,5 @@
 	<info author = "#Rayan" name = "TagPanel" version = "1.0.1" description = "" type = "script" />
 	<script src="client.lua" type="client" ></script>
 	<script src="server.lua" type="server" />
-	<script src='update.lua' type='server' />
 	<script src="s.lua" type="server" />
 </meta>
